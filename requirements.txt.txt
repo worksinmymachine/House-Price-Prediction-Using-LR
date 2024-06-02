@@ -1,0 +1,5 @@
+Libraries required for the house price prediction mini project-
+1. numpy
+2. pandas
+3. scikit-learn
+4. matplotlib
