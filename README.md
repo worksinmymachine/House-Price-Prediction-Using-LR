@@ -23,18 +23,8 @@ The dataset used for this project is `Data.csv`. It contains the following colum
 
 ## Installation and Usage
 
-1. Clone the repository to your local machine:
-
-    ```sh
-    git clone https://github.com/your-username/house-price-prediction.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```sh
-    cd house-price-prediction
-    ```
-
+1. Clone the repository to your local machine
+2. Navigate to the project directory
 3. Install the required dependencies. You can use `pip` to install the dependencies listed in the `requirements.txt` file (if available) or install them manually. Typical dependencies include `numpy`, `pandas`, `scikit-learn`, and `matplotlib`.
 
     ```sh
